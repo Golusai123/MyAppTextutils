@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Golusai123/MyAppTextutils.git/static/css/main.9b3e3be0.css",
-    "main.js": "/Golusai123/MyAppTextutils.git/static/js/main.bd8401d7.js",
-    "static/js/787.719ec76d.chunk.js": "/Golusai123/MyAppTextutils.git/static/js/787.719ec76d.chunk.js",
-    "index.html": "/Golusai123/MyAppTextutils.git/index.html",
-    "main.9b3e3be0.css.map": "/Golusai123/MyAppTextutils.git/static/css/main.9b3e3be0.css.map",
-    "main.bd8401d7.js.map": "/Golusai123/MyAppTextutils.git/static/js/main.bd8401d7.js.map",
-    "787.719ec76d.chunk.js.map": "/Golusai123/MyAppTextutils.git/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/Golusai123/MyAppTextutils/static/css/main.9b3e3be0.css",
+    "main.js": "/Golusai123/MyAppTextutils/static/js/main.80946d02.js",
+    "static/js/787.719ec76d.chunk.js": "/Golusai123/MyAppTextutils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/Golusai123/MyAppTextutils/index.html",
+    "main.9b3e3be0.css.map": "/Golusai123/MyAppTextutils/static/css/main.9b3e3be0.css.map",
+    "main.80946d02.js.map": "/Golusai123/MyAppTextutils/static/js/main.80946d02.js.map",
+    "787.719ec76d.chunk.js.map": "/Golusai123/MyAppTextutils/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b3e3be0.css",
-    "static/js/main.bd8401d7.js"
+    "static/js/main.80946d02.js"
   ]
 }
